@@ -19,7 +19,7 @@ public:
 
 class InventoryStorage {
 public:
-    void CreateItem(InventoryItem* item);
+    void AddItem(InventoryItem* item);
     std::vector<InventoryItem*> GetItems();
     std::vector<InventoryItem*> GetItems(const std::string& ItemType);
 private:
