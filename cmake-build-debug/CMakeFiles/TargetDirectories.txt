@@ -1,0 +1,3 @@
+C:/Users/omerf/CLionProjects/armyoop/cmake-build-debug/CMakeFiles/armyoop.dir
+C:/Users/omerf/CLionProjects/armyoop/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/omerf/CLionProjects/armyoop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
