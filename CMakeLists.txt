@@ -1,8 +1,12 @@
-cmake_minimum_required(VERSION 3.29)
+cmake_minimum_required(VERSION 3.28)
 project(armyoop)
 
-set(CMAKE_CXX_STANDARD 17)
 
 add_executable(armyoop main.cpp
         classes.cpp
-        classes.h)
+        classes.h
+        weapon.cpp
+        tank.cpp
+        aircraft.cpp
+)
+set_property(TARGET armyoop PROPERTY CXX_STANDARD 20)
